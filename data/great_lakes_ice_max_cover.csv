@@ -1,0 +1,289 @@
+year,lake,value
+1973,Erie,95.7
+1973,Huron,66.7
+1973,Michigan,33
+1973,Ontario,62.6
+1973,Superior,69.8
+1973,All Lakes,60.6
+1974,Erie,88.5
+1974,Huron,61.4
+1974,Michigan,39.4
+1974,Ontario,24.5
+1974,Superior,73.8
+1974,All Lakes,58.7
+1975,Erie,80.1
+1975,Huron,55.1
+1975,Michigan,28.1
+1975,Ontario,14.9
+1975,Superior,64.9
+1975,All Lakes,50.2
+1976,Erie,95.4
+1976,Huron,52.5
+1976,Michigan,29.5
+1976,Ontario,15.2
+1976,Superior,49.9
+1976,All Lakes,39.9
+1977,Erie,99.8
+1977,Huron,95
+1977,Michigan,93.1
+1977,Ontario,46.7
+1977,Superior,96
+1977,All Lakes,89.9
+1978,Erie,100
+1978,Huron,95.8
+1978,Michigan,66.6
+1978,Ontario,57.7
+1978,Superior,92.5
+1978,All Lakes,83
+1979,Erie,100
+1979,Huron,96.4
+1979,Michigan,92.3
+1979,Ontario,86.2
+1979,Superior,97.1
+1979,All Lakes,94.7
+1980,Erie,93.4
+1980,Huron,70.3
+1980,Michigan,38.6
+1980,Ontario,30.6
+1980,Superior,77.2
+1980,All Lakes,62.8
+1981,Erie,96
+1981,Huron,93.8
+1981,Michigan,53.8
+1981,Ontario,47.6
+1981,Superior,84.7
+1981,All Lakes,71.3
+1982,Erie,99.1
+1982,Huron,93.3
+1982,Michigan,60.2
+1982,Ontario,50.7
+1982,Superior,85.3
+1982,All Lakes,74.8
+1983,Erie,40.8
+1983,Huron,31.8
+1983,Michigan,23.6
+1983,Ontario,12.5
+1983,Superior,20.2
+1983,All Lakes,22.1
+1984,Erie,95.7
+1984,Huron,77.6
+1984,Michigan,43.3
+1984,Ontario,40.7
+1984,Superior,88.2
+1984,All Lakes,65.2
+1985,Erie,96
+1985,Huron,87.4
+1985,Michigan,41.3
+1985,Ontario,38.2
+1985,Superior,81.9
+1985,All Lakes,69.8
+1986,Erie,95.5
+1986,Huron,73.5
+1986,Michigan,66.8
+1986,Ontario,43.7
+1986,Superior,90.7
+1986,All Lakes,76.4
+1987,Erie,88
+1987,Huron,43.5
+1987,Michigan,20
+1987,Ontario,8.4
+1987,Superior,14.5
+1987,All Lakes,27.3
+1988,Erie,91.5
+1988,Huron,60.1
+1988,Michigan,32.7
+1988,Ontario,21.1
+1988,Superior,67.3
+1988,All Lakes,53.6
+1989,Erie,91.6
+1989,Huron,76.3
+1989,Michigan,30.9
+1989,Ontario,15.5
+1989,Superior,82.3
+1989,All Lakes,59.2
+1990,Erie,72.8
+1990,Huron,73.8
+1990,Michigan,32.4
+1990,Ontario,29.5
+1990,Superior,78.1
+1990,All Lakes,59.7
+1991,Erie,35.1
+1991,Huron,43.8
+1991,Michigan,21.5
+1991,Ontario,11.6
+1991,Superior,89.6
+1991,All Lakes,44.3
+1992,Erie,89.8
+1992,Huron,69.9
+1992,Michigan,32.8
+1992,Ontario,17.5
+1992,Superior,73.3
+1992,All Lakes,45.5
+1993,Erie,94.3
+1993,Huron,78.3
+1993,Michigan,32.2
+1993,Ontario,29
+1993,Superior,77.2
+1993,All Lakes,64.4
+1994,Erie,96.7
+1994,Huron,96.9
+1994,Michigan,82.7
+1994,Ontario,55.7
+1994,Superior,96.1
+1994,All Lakes,89
+1995,Erie,94
+1995,Huron,41.7
+1995,Michigan,21.6
+1995,Ontario,18.8
+1995,Superior,28.8
+1995,All Lakes,32
+1996,Erie,100
+1996,Huron,98.2
+1996,Michigan,75
+1996,Ontario,45.1
+1996,Superior,100
+1996,All Lakes,81.7
+1997,Erie,99.6
+1997,Huron,65.3
+1997,Michigan,37.8
+1997,Ontario,25.6
+1997,Superior,89
+1997,All Lakes,58.4
+1998,Erie,5.4
+1998,Huron,28.6
+1998,Michigan,15.1
+1998,Ontario,6.2
+1998,Superior,11.1
+1998,All Lakes,14
+1999,Erie,74.8
+1999,Huron,36
+1999,Michigan,23
+1999,Ontario,17.9
+1999,Superior,18.3
+1999,All Lakes,26.6
+2000,Erie,90.7
+2000,Huron,41.9
+2000,Michigan,27.2
+2000,Ontario,22.3
+2000,Superior,33.5
+2000,All Lakes,34.8
+2001,Erie,94
+2001,Huron,45.7
+2001,Michigan,29.5
+2001,Ontario,17.9
+2001,Superior,46.7
+2001,All Lakes,34.4
+2002,Erie,14.4
+2002,Huron,26.1
+2002,Michigan,12.4
+2002,Ontario,4
+2002,Superior,10.3
+2002,All Lakes,11.8
+2003,Erie,95.7
+2003,Huron,96.2
+2003,Michigan,48
+2003,Ontario,49.6
+2003,Superior,95.5
+2003,All Lakes,80.2
+2004,Erie,95.4
+2004,Huron,64.5
+2004,Michigan,36.4
+2004,Ontario,38.5
+2004,Superior,52.2
+2004,All Lakes,51.9
+2005,Erie,93
+2005,Huron,58.9
+2005,Michigan,29.4
+2005,Ontario,37.8
+2005,Superior,54.5
+2005,All Lakes,44.2
+2006,Erie,21.9
+2006,Huron,32.17
+2006,Michigan,16.2
+2006,Ontario,14.3
+2006,Superior,16.7
+2006,All Lakes,20.4
+2007,Erie,95.8
+2007,Huron,71.39
+2007,Michigan,37.2
+2007,Ontario,23.8
+2007,Superior,51.8
+2007,All Lakes,55.2
+2008,Erie,93.4
+2008,Huron,59.51
+2008,Michigan,33.5
+2008,Ontario,14
+2008,Superior,62.7
+2008,All Lakes,53.7
+2009,Erie,95.6
+2009,Huron,85.11
+2009,Michigan,52.3
+2009,Ontario,25.9
+2009,Superior,93.6
+2009,All Lakes,73.9
+2010,Erie,93.1
+2010,Huron,36.95
+2010,Michigan,23.5
+2010,Ontario,13.1
+2010,Superior,27.3
+2010,All Lakes,27.5
+2011,Erie,95.9
+2011,Huron,63.79
+2011,Michigan,29.4
+2011,Ontario,31.1
+2011,Superior,33.6
+2011,All Lakes,40.1
+2012,Erie,13.9
+2012,Huron,23.06
+2012,Michigan,16.7
+2012,Ontario,1.9
+2012,Superior,8.2
+2012,All Lakes,12.9
+2013,Erie,83.7
+2013,Huron,47.75
+2013,Michigan,24.4
+2013,Ontario,15.6
+2013,Superior,38.6
+2013,All Lakes,38.4
+2014,Erie,96.1
+2014,Huron,96.1
+2014,Michigan,93.1
+2014,Ontario,60.8
+2014,Superior,95.8
+2014,All Lakes,92.3
+2015,Erie,98.1
+2015,Huron,96.4
+2015,Michigan,72.9
+2015,Ontario,82.4
+2015,Superior,95.7
+2015,All Lakes,88.8
+2016,Erie,78.7
+2016,Huron,47.98
+2016,Michigan,26.8
+2016,Ontario,23.5
+2016,Superior,22.7
+2016,All Lakes,33.8
+2017,Erie,35.5
+2017,Huron,35.35
+2017,Michigan,18.2
+2017,Ontario,5.8
+2017,Superior,18.7
+2017,All Lakes,19.4
+2018,Erie,95.1
+2018,Huron,81.39
+2018,Michigan,51.3
+2018,Ontario,24.7
+2018,Superior,77.2
+2018,All Lakes,69
+2019,Erie,94.3
+2019,Huron,95.7
+2019,Michigan,55.8
+2019,Ontario,39.8
+2019,Superior,94.9
+2019,All Lakes,80.9
+2020,Erie,15.9
+2020,Huron,32.1
+2020,Michigan,17.2
+2020,Ontario,10.7
+2020,Superior,22.6
+2020,All Lakes,19.5
